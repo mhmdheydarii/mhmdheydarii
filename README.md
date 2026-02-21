@@ -13,9 +13,12 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-I build backend projects with Python and Django.<br>
-I enjoy turning ideas into structured APIs.<br>
-Currently improving my skills in backend architecture and API design.
+  <strong>
+    I build backend projects using Python and Django.<br><br>
+    I enjoy turning ideas into structured and functional APIs.<br><br>
+    I’m focused on improving my backend skills,<br>
+    writing cleaner code, and understanding systems more deeply.
+  </strong>
 </p>
 
 ---
@@ -24,7 +27,7 @@ Currently improving my skills in backend architecture and API design.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmdheydarii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdheydarii&theme=tokyonight&hide_border=true" />
+  
 </p>
 
 
