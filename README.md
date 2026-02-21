@@ -1,25 +1,24 @@
-<h1 align="center">Mohammad Hossein Heydari 👋</h1>
-<h3 align="center">Backend Developer | Django & DRF</h3>
+<h1 align="center">⚡ Mohammad Hossein Heydari ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+%26+DRF+Specialist;Always+Learning+New+Things" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,github,html,css" />
 </p>
 
-<hr>
+---
 
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I am a backend developer focused on building clean and scalable APIs.
-My journey started with Python and evolved into Django and Django REST Framework.
-I enjoy understanding how systems work under the hood and writing structured, maintainable code.
+I build structured and scalable backend systems using Python and Django.
+I enjoy understanding how things work deeply rather than just making them work.
+Currently focused on writing production-ready APIs and improving backend architecture skills.
 </p>
 
-<p>
-Currently improving my backend architecture knowledge and working on real-world API projects.
-</p>
-
-<hr>
+---
 
 <h2>🚀 Tech Stack</h2>
 
@@ -34,18 +33,26 @@ Currently improving my backend architecture knowledge and working on real-world 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
 </p>
 
-<hr>
+---
 
-<h2>📌 Current Focus</h2>
-
-<ul>
-  <li>Building production-ready REST APIs</li>
-  <li>Improving database design skills</li>
-  <li>Writing cleaner and more maintainable code</li>
-</ul>
-
-<hr>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <b>“Code. Improve. Repeat.”</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdheydarii&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdheydarii&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <b>Code. Improve. Repeat.</b>
+</p>
+
