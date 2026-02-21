@@ -15,34 +15,36 @@
 <p align="center">
 I build backend projects with Python and Django.<br>
 I enjoy turning ideas into structured APIs.<br>
-Currently focused on improving architecture, performance, and clean code.
+Currently improving my skills in backend architecture and API design.
 </p>
 
 ---
 
-<h2 align="center">🚀 What I Work With</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-Python • Django • Django REST Framework • PostgreSQL • Docker • Git • HTML • CSS
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdheydarii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdheydarii&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdheydarii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">🔥 Profile Views</h2>
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=mhmdheydarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mhmdheydarii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdheydarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <img src="https://komarev.com/ghpvc/?username=mhmdheydarii&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -50,4 +52,3 @@ Python • Django • Django REST Framework • PostgreSQL • Docker • Git �
 <p align="center">
   <b>Build. Break. Fix. Improve.</b>
 </p>
-
