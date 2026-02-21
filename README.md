@@ -1,15 +1,51 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.mhmdheydari) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mr_mhmdheydari)
+<h1 align="center">Mohammad Hossein Heydari 👋</h1>
+<h3 align="center">Backend Developer | Django & DRF</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mhmdheydarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mhmdheydarii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdheydarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,github,html,css" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=mhmdheydarii&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I am a backend developer focused on building clean and scalable APIs.
+My journey started with Python and evolved into Django and Django REST Framework.
+I enjoy understanding how systems work under the hood and writing structured, maintainable code.
+</p>
+
+<p>
+Currently improving my backend architecture knowledge and working on real-world API projects.
+</p>
+
+<hr>
+
+<h2>🚀 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+</p>
+
+<hr>
+
+<h2>📌 Current Focus</h2>
+
+<ul>
+  <li>Building production-ready REST APIs</li>
+  <li>Improving database design skills</li>
+  <li>Writing cleaner and more maintainable code</li>
+</ul>
+
+<hr>
+
+<p align="center">
+  <b>“Code. Improve. Repeat.”</b>
+</p>
