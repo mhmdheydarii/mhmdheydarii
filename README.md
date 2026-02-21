@@ -27,28 +27,6 @@ Currently improving my skills in backend architecture and API design.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdheydarii&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdheydarii&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
 
-<h2 align="center">🔥 Profile Views</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhmdheydarii&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-<h2 align="center">💬 Random Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <b>Build. Break. Fix. Improve.</b>
-</p>
