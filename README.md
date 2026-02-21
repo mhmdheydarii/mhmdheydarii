@@ -31,7 +31,7 @@ Python • Django • Django REST Framework • PostgreSQL • Docker • Git �
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdheydarii&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[mhmdheydarii](https://github.com/mhmdheydarii/)&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdheydarii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
