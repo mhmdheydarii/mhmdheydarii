@@ -1,41 +1,49 @@
-<h1 align="center">⚡ Mohammad Hosein Heydari ⚡</h1>
+<h1 align="center">⚡ Mohammad Hosein Heydari</h1>
 
 <p align="center">
-  <strong>Backend Developer | Python • Django • Django REST Framework</strong>
+  <strong>Backend Developer · Python · Django · Django REST Framework</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Building+RESTful+APIs;Python+%26+Django+Developer;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+RESTful+APIs;Python+%26+Django+Developer;Writing+Clean+%26+Maintainable+Code;Always+Learning%2C+Always+Building" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github,html,css,js" />
-</p>
-
----
-
-<h2 align="center">🧠 About Me</h2>
-
-<p align="center">
-  I'm a Backend Developer focused on building web applications and RESTful APIs with Python, Django, and Django REST Framework.
-  <br><br>
-  I enjoy designing clean and maintainable backend systems,
-  working with databases, authentication, caching, and APIs.
-  <br><br>
-  Currently, I'm focused on improving my backend development skills
-  and learning more about scalable and production-ready systems.
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,github,html,css" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github" />
+  I'm a Backend Developer focused on building web applications and RESTful APIs
+  with Python, Django, and Django REST Framework.
+  <br><br>
+  I enjoy turning ideas into reliable backend systems,
+  designing clean APIs, working with databases, authentication, and caching.
+  <br><br>
+  I'm constantly improving my skills and exploring better ways
+  to build scalable, maintainable, and production-ready applications.
+</p>
+
+---
+
+<h2 align="center">⚙️ What I Work With</h2>
+
+<p align="center">
+  <strong>Backend</strong><br>
+  Python · Django · Django REST Framework
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <strong>Database & Infrastructure</strong><br>
+  PostgreSQL · Docker
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br>
+  Git · GitHub
 </p>
 
 ---
@@ -52,20 +60,10 @@
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
-
 <p align="center">
-  <strong>🛒 E-Commerce REST API</strong><br>
-  Django REST Framework • PostgreSQL • Redis • Docker
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdheydarii&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <strong>🤖 AI Chat Application</strong><br>
-  Django • OpenAI API • Google OAuth • Chat History
-</p>
-
----
-
-<p align="center">
-  <i>“Keep learning. Keep building. Keep improving.”</i>
+  <i>Build. Learn. Improve. Repeat. ⚡</i>
 </p>
