@@ -21,38 +21,13 @@
   <br>
   with a focus on clean architecture, performance and maintainable code.
 </p>
-
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
 
-<p align="center">
+<h2>🚀 What I Build</h2>
 
-<strong>Backend</strong><br><br>
-
-<img src="https://skillicons.dev/icons?i=python,django" />
-
-<br><br>
-
-<strong>Database & Infrastructure</strong><br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker" />
-<img src="https://cdn.simpleicons.org/celery/37814A" width="48" height="48" alt="Celery" />
-
-<br><br>
-
-<strong>Tools</strong><br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-</p>
-
----
-
-<h2 align="center">🚀 What I Build</h2>
-
-<p align="center">
-
+<p>
 🔹 RESTful APIs with Django REST Framework<br>
 🔹 Authentication & Authorization with JWT<br>
 🔹 PostgreSQL database design & optimization<br>
@@ -60,8 +35,10 @@
 🔹 Background tasks with Celery<br>
 🔹 Dockerized backend applications<br>
 🔹 E-commerce & API-driven applications
-
 </p>
+
+</div>
+
 
 ---
 
