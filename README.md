@@ -12,7 +12,9 @@
 
 ---
 
-<h2 align="center">🧠 About Me</h2>
+<div align="center">
+
+<h2>🧠 About Me</h2>
 
 <p align="center">
   Backend Developer focused on building reliable and structured web APIs with Python and Django.
@@ -21,6 +23,10 @@
   <br>
   with a focus on clean architecture, performance and maintainable code.
 </p>
+
+</div>
+
+---
 
 <div align="center">
 
