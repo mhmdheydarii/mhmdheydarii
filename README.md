@@ -1,11 +1,13 @@
 <h1 align="center">⚡ Mohammad Hosein Heydari ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+APIs+with+Django;Always+Learning;Clean+Code+Matters" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+%7C+DRF;Building+Scalable+APIs;Clean+Code+%26+Better+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,redis,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github,html,css" />
+  <br>
+  <img src="https://cdn.simpleicons.org/celery/37814A" width="48" height="48" alt="Celery" />
 </p>
 
 ---
@@ -13,12 +15,52 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  <strong>
-    I build backend projects using Python and Django.<br><br>
-    I enjoy turning ideas into structured and functional APIs.<br><br>
-    I’m focused on improving my backend skills,<br>
-    writing cleaner code, and understanding systems more deeply.
-  </strong>
+  Backend Developer focused on building reliable and structured web APIs with Python and Django.
+  <br><br>
+  I work with Django REST Framework, PostgreSQL, Redis, Celery and Docker,
+  <br>
+  with a focus on clean architecture, performance and maintainable code.
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+
+<strong>Backend</strong><br><br>
+
+<img src="https://skillicons.dev/icons?i=python,django" />
+
+<br><br>
+
+<strong>Database & Infrastructure</strong><br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker" />
+<img src="https://cdn.simpleicons.org/celery/37814A" width="48" height="48" alt="Celery" />
+
+<br><br>
+
+<strong>Tools</strong><br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+</p>
+
+---
+
+<h2 align="center">🚀 What I Build</h2>
+
+<p align="center">
+
+🔹 RESTful APIs with Django REST Framework<br>
+🔹 Authentication & Authorization with JWT<br>
+🔹 PostgreSQL database design & optimization<br>
+🔹 Redis caching & performance optimization<br>
+🔹 Background tasks with Celery<br>
+🔹 Dockerized backend applications<br>
+🔹 E-commerce & API-driven applications
+
 </p>
 
 ---
@@ -27,4 +69,26 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdheydarii&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdheydarii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+---
+
+<h2 align="center">💻 Current Focus</h2>
+
+<p align="center">
+  Building better backend systems,
+  <br>
+  improving API performance,
+  <br>
+  and learning how scalable systems work under the hood.
+</p>
+
+---
+
+<p align="center">
+  <i>Clean code. Reliable APIs. Better systems.</i>
 </p>
