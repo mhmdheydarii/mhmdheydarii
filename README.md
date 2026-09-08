@@ -21,7 +21,6 @@
   <br>
   with a focus on clean architecture, performance and maintainable code.
 </p>
----
 
 <div align="center">
 
